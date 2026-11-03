@@ -1,0 +1,12 @@
+[
+  {
+    "name": "stationary",
+    "category": "food",
+    "amount": 5000.0
+  },
+  {
+    "name": "travel",
+    "category": "travel",
+    "amount": 4000.0
+  }
+]
